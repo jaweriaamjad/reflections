@@ -1,0 +1,39 @@
+For now I feel that version control system is an efficient tool that helps you keep track of the changes you make in your code and allows you rectify any typos or mistakes you might have made.
+
+- How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+There could be many ways in which VCS may help me be more effiecient. For example:
+I sometimes wish I had previous versions of my code because there was a feature that I deleted and now want it back.
+Sometimes while making some changes I mess up my code and do not really remember what exatly was there before I made these changes.
+
+- What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Pros of manual committing:
+-- flexibility
+-- may result in more logical commits
+
+Cons of manual committing:
+-- you may forget to commit a useful change 
+-- you may end up committing more often
+
+Pros of automatic version saving:
+-- You will surely not lose any changes
+
+Cons of automatic version saving:
+-- The versions might not present a logical change and the changes might not make a lot of sense.
+
+- Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Github is usually used for storing and collaborating coding projects which inherently implies connections between different files of a repository therefore it makes more sense to save all the files in that repo. On the otherhand, platforms like Google docs are usually used for storing and sharing general purpose files which may not need to be stored all at the same time.
+
+- How can you use the commands git log and git diff to view the history of files?
+
+git log can be used to view the history of all the commits in that particular repository whereas git diff can be used to view the specific changes made in the two commits whose ids are given as arguements.
+
+- How might using version control make you more confident to make changes that could break something?
+
+since we can always go back and undo the changes that we made to our files, we feel confident in making any addition/deletion to our code since the changes can be reverted at any time in the future.
+
+- ow that you have your workspace set up, what do you want to try using Git for?
+
+I want to maintain repositories for my codes online so that I am able to easily collaborate and share my work with others.
