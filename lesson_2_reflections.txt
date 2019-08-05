@@ -7,11 +7,13 @@ What value do you think it offers?
 
 staging area is a temporary state that shows you the changes that you will be commiting to the git repository from the working repo. It allow you more control over the changes that you will be committing.
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How can you use the staging area to make sure you have one commit per logical change?
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+We can add files that we want to commit at one time to the staging area and commit those changes. This allows us more control of our commit  history.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches are helpful when you want to introduce a new stream of changes to your coding pipline and want it to be kept seperate from your main development line. In this way you can keep on developing your branches and main stream seperately without having to worry about mixing up teh changes.
 
 How do the diagrams help you visualize the branch structure?
 
