@@ -17,6 +17,8 @@ Branches are helpful when you want to introduce a new stream of changes to your 
 
 How do the diagrams help you visualize the branch structure?
 
+Diagrams show us our git log in form of a tree and thus it is helpful in visualizing the structure of our commit history.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
