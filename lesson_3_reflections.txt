@@ -14,3 +14,7 @@ Fork is used when we want to do something on top of someone else's repository. T
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It serves as a checkpoint for us. This way, when we want to pull changes/commits from the github repository, the changes and/or conflicts can be tracked with ease.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I could use other cloud services such as google drive or dropbox for collaboration but this would make the task tremendously tedious as compared to the Git since I'll have to track all the changes which is time consuming and prone to error.
