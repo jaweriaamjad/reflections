@@ -10,3 +10,7 @@ Describe the differences between forks, clones, and branches. When would you use
 
 Fork is a GitHub method that creates a copy of a GH repo on the GH server in our account. Cloning, on the other hand, creates a copy of the github repo on our local machine. Branching is a diiferent operation which creates a diverging stream of commits independent from the master branch. 
 Fork is used when we want to do something on top of someone else's repository. These changes are not pushed to the parent repository which was forked. In circumstances, wehere we want to collaborate with people, cloning is more suitable. Branching is an operation, which is done when changes are made in the repository that are desired to be kept seperate from the master file. 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It serves as a checkpoint for us. This way, when we want to pull changes/commits from the github repository, the changes and/or conflicts can be tracked with ease.
